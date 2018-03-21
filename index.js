@@ -162,7 +162,7 @@ var render = ({
 
   </p>
   源代码在这里：<a href="https://github.com/Nadejde/eos-token-sale">https://github.com/Nadejde/eos-token-sale</a>.
-  <br>翻译后的源代码在这里：<a href="https://github.com/chengaoli/eos-token-sale">https://github.com/chengaoli/eos-token-sale</a>.
+  <br />翻译后的源代码在这里：<a href="https://github.com/chengaoli/eos-token-sale">https://github.com/chengaoli/eos-token-sale</a>.
   <br />
   <br />
   <strong> 如果这个程序对你有帮助的话，你可以考虑给原作者捐赠(ETH): 0x0bbe518debf97fb2e27d955b050cbd1e8ca90264 </strong>
